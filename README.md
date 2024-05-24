@@ -22,7 +22,7 @@ Kristina Markoska 223077
     6. Item("", "0.5",420,7.5), payment = 80
  ![image](https://github.com/kristinamarkoska/SI_2024_lab2_223077/assets/165588196/b20845f4-465d-4761-948c-9b0ff0d6029c)
 
-Тест случаи според Multiple Condition критериумот
+5. Тест случаи според Multiple Condition критериумот
 
 if (item.getPrice() > 300 && item.getDiscount() > 0 && item.getBarcode().charAt(0) == '0')
 
